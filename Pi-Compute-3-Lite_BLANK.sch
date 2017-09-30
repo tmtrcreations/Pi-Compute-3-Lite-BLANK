@@ -28,7 +28,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:tfp401a
 LIBS:ddr2_sodimm
 LIBS:voltage_reg
 LIBS:uSD_card
