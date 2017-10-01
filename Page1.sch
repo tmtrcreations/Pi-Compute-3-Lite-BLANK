@@ -31,6 +31,7 @@ LIBS:valves
 LIBS:ddr2_sodimm
 LIBS:voltage_reg
 LIBS:uSD_card
+LIBS:Pi-Compute-3-Lite_BLANK-cache
 EELAYER 25 0
 EELAYER END
 $Descr USLetter 8500 11000 portrait
@@ -712,7 +713,7 @@ U 1 1 588D3CA1
 P 7515 8290
 F 0 "U?" H 7365 8915 60  0000 C CNN
 F 1 "1040310811" H 7540 7465 60  0000 C CNN
-F 2 "" H 7590 7765 60  0001 C CNN
+F 2 "Pi-Library:LCD_Molex_Connector" H 7590 7765 60  0001 C CNN
 F 3 "" H 7590 7765 60  0001 C CNN
 	1    7515 8290
 	1    0    0    -1  
