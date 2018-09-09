@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:Pi-Compute-3-Lite_BLANK-cache
 EELAYER 26 0
 EELAYER END
 $Descr USLetter 8500 11000 portrait
@@ -529,7 +530,7 @@ $EndComp
 Wire Wire Line
 	2800 4425 2800 4530
 Text GLabel 2800 4780 3    39   Input ~ 0
-GND
+1V8
 Wire Wire Line
 	2800 4780 2800 4730
 Wire Wire Line
